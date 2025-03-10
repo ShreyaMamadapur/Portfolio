@@ -1,8 +1,8 @@
 # Portfolio
-This is my technical writing portfolio where I have tried to demonstrate my technical writing skills through a few samples of my writing.
+This is my technical writing portfolio where I have tried to demonstrate my writing skills through a few samples.
 
 ## About me
-I am a Technical Writer with two years of experience. In the past, I have worn other hats as well - that of a Software Engineer and a teacher. I believe that these roles bring a lot of value to my current role of a Technical Writer. 
+I am a Technical Writer with two years of technical writing experience. In the past, I have worn other hats as well - that of a Software Engineer and a Teacher. I believe that these roles bring a lot of value to my current role of a Technical Writer. 
 
 I have worked on both internal and external documentation for applications in the banking and medical device domains, using Microsoft Word, Confluence and AsciiDoc with Antora. I have also contributed to UX Writing and improved the user experience for the applications that I have worked on.
 
