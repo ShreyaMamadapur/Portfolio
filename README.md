@@ -12,4 +12,4 @@ Some of my strengths:
 
 # Portfolio
 This is my technical writing portfolio where I have tried to demonstrate my writing skills through a few samples.
-Snagit - Getting Started Guide[https://github.com/ShreyaMamadapur/Portfolio/blob/main/getting-started-guides/Snagit%20-%20Getting%20Started%20Guide.pdf]
+- [Snagit - Getting Started Guide](https://github.com/ShreyaMamadapur/Portfolio/blob/main/getting-started-guides/Snagit%20-%20Getting%20Started%20Guide.pdf)
