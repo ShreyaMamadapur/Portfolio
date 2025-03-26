@@ -16,7 +16,7 @@ Gmail allows you to compose an email and schedule it to be sent at a later time.
    
    ![pick_date_and_time](https://github.com/user-attachments/assets/e4d4d81c-c777-4eb6-9601-868da41a1b95)
 6. If needed, you can cancel the scheduling by going to the **Scheduled** tab in the left pane and clicking on **Cancel send** as shown below.
-   ![cancel_send](images/cancel_send.PNG)
+   ![cancel_send](../images/cancel_send.PNG)
 
 
 
