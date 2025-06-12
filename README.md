@@ -14,3 +14,7 @@ Some of my strengths:
 This is my technical writing portfolio where I have tried to demonstrate my writing skills through a few samples.
 - [Snagit - Getting Started Guide](https://github.com/ShreyaMamadapur/Portfolio/blob/main/getting-started-guides/Snagit%20-%20Getting%20Started%20Guide.pdf)
 - [How to schedule an email in Gmail](https://github.com/ShreyaMamadapur/Portfolio/blob/9ddd659de5d9fdd11ff577edd5698ea87b9a0b22/How-to%20guides/How%20to%20schedule%20an%20email%20in%20Gmail.md)
+- [API Reference Sample - Hangout Library](https://github.com/ShreyaMamadapur/Portfolio/blob/main/Assets/API%20Reference%20Sample_Hangout%20Library.pdf)
+- [Article Improvement Sample - Fields Concatenation](https://github.com/ShreyaMamadapur/Portfolio/blob/main/Assets/Fields%20Concatenation.pdf)
+- [Peanut Butter and Jelly Sandwich Recipe](https://github.com/ShreyaMamadapur/Portfolio/blob/main/Assets/Peanut%20Butter%20and%20Jelly%20Sandwich%20Recipe_Shreya%20Mamadapur.pdf)
+- [Tying a Shoelace - A Quick Guide](https://github.com/ShreyaMamadapur/Portfolio/blob/main/Assets/Tying%20a%20Shoelace_A%20Quick%20Guide.pdf)
