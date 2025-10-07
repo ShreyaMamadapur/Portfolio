@@ -13,6 +13,7 @@ Some of my strengths:
 # Portfolio
 This is my technical writing portfolio where I have tried to demonstrate my writing skills through a few samples.
 - [Snagit - Getting Started Guide](https://github.com/ShreyaMamadapur/Portfolio/blob/main/getting-started-guides/Snagit%20-%20Getting%20Started%20Guide.pdf)
+- [Help Center Article - Getting Started with FlightAware MiseryMap](https://github.com/ShreyaMamadapur/Portfolio/blob/main/Assets/Getting%20Started%20with%20FlightAware%20MiseryMap.pdf)
 - [How to schedule an email in Gmail](https://github.com/ShreyaMamadapur/Portfolio/blob/9ddd659de5d9fdd11ff577edd5698ea87b9a0b22/How-to%20guides/How%20to%20schedule%20an%20email%20in%20Gmail.md)
 - [API Reference Sample - Hangout Library](https://github.com/ShreyaMamadapur/Portfolio/blob/main/Assets/API%20Reference%20Sample_Hangout%20Library.pdf)
 - [Article Improvement Sample - Fields Concatenation](https://github.com/ShreyaMamadapur/Portfolio/blob/main/Assets/Fields%20Concatenation.pdf)
